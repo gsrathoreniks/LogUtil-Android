@@ -49,7 +49,7 @@ allprojects {
   ```
 ---------------------------------------------
 
-# SBT
+# Sbt
 
 ### STEP 1: Add it in your build.sbt at the end of resolvers:
 ```
@@ -62,7 +62,7 @@ allprojects {
  ```
  
 ----------------------------------------------
-# LEININGEN
+# Leiningen
 
 ### STEP 1: Add it in your project.clj at the end of repositories:
 
